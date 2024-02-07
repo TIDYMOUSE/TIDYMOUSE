@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, This is ADVAIT </h1>
 
-<img src="https://2.bp.blogspot.com/-GrpQmuRjjII/Wq9-kNvTuPI/AAAAAAABK9o/XSlnWP5LbZksnOvHz3N9NFbQDd_Wx_4rQCLcBGAs/s800/kid_job_boy_programmer.png" alt="programming image" width="90px" align="right"/>
-
+<img src="https://2.bp.blogspot.com/-GrpQmuRjjII/Wq9-kNvTuPI/AAAAAAABK9o/XSlnWP5LbZksnOvHz3N9NFbQDd_Wx_4rQCLcBGAs/s800/kid_job_boy_programmer.png" alt="programming image" width="130px" align="right"/>
 
 
 - 🔭 I’m currently working on NextJS & Blockchain based projects
