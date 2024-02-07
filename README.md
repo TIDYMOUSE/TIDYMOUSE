@@ -13,7 +13,7 @@
 - 📫 Dont hesitate to reach me at **advaityadav08@gmail.com**
 
 -  👨‍💻 I'm a core BLOCKCHAIN committee member at GDSC, VJTI
-</p>
+</p> 
 
 
 
