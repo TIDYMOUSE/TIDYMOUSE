@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is ADVAIT </h1>
 
+<img src="https://2.bp.blogspot.com/-GrpQmuRjjII/Wq9-kNvTuPI/AAAAAAABK9o/XSlnWP5LbZksnOvHz3N9NFbQDd_Wx_4rQCLcBGAs/s800/kid_job_boy_programmer.png" alt="programming image" width="90px" align="right"/>
 
-<div style="display:flex; justify-content:space-evenly;">
 
 
 - 🔭 I’m currently working on NextJS & Blockchain based projects
@@ -14,9 +14,8 @@
 
 -  👨‍💻 I'm a core BLOCKCHAIN committee member at GDSC, VJTI
 
-<img src="https://2.bp.blogspot.com/-GrpQmuRjjII/Wq9-kNvTuPI/AAAAAAABK9o/XSlnWP5LbZksnOvHz3N9NFbQDd_Wx_4rQCLcBGAs/s800/kid_job_boy_programmer.png" alt="programming image" style="width:90px;"/>
 
-</div>
+
 
 <h2 align="center">TECH STACK</h2>
 <p align="center">
@@ -28,13 +27,11 @@
 
 <h2 align="center">GITHUB STATS</h2>
 
-<div style="display:flex; justify-content:space-evenly;">
-
+<p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=TIDYMOUSE&show_icons=true&theme=dracula" alt="stats" height="150px"/> 
-
 <img src="https://github-readme-stats-r4jq.vercel.app/api/top-langs/?username=TIDYMOUSE&layout=compact&theme=dracula" alt="stats" height="150px"/>
+</p>
 
-</div>
 
 <h2 align="center">CONNECT TO ME</h2>
 
