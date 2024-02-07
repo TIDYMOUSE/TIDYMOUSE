@@ -13,6 +13,8 @@
 - 📫 Dont hesitate to reach me at **advaityadav08@gmail.com**
 
 -  👨‍💻 I'm a core BLOCKCHAIN committee member at GDSC, VJTI
+</p>
+
 
 
 
@@ -27,6 +29,7 @@
 
 <h2 align="center">GITHUB STATS</h2>
 
+<p align="center"> 
 <p align="center"> 
 <img src="https://github-readme-stats.vercel.app/api?username=TIDYMOUSE&show_icons=true&theme=dracula" alt="stats" height="150px"/> 
 <img src="https://github-readme-stats-r4jq.vercel.app/api/top-langs/?username=TIDYMOUSE&layout=compact&theme=dracula" alt="stats" height="150px"/>
