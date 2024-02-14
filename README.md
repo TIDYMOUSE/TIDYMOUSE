@@ -46,7 +46,7 @@
 </p>
 
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=TIDYMOUSE&label=Profile%20Views&color=6&pretty=true" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=TIDYMOUSE&style=flat-square"/>
 </div>
 
 
