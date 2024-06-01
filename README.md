@@ -35,7 +35,7 @@
 </p>
 
 
-<h2 align="center">CONNECT TO ME</h2>
+<h2 align="center">CONNECT WITH ME</h2>
 
 <p align="center">
 <a href="https://in.linkedin.com/in/advait-yadav-231154271" target="blank"><img style="border-radius: 100%" src="https://github.com/TIDYMOUSE/TIDYMOUSE/assets/82702909/b3d389bf-fc57-489c-9342-de2f73eb7124" alt="linkedin" height="50" width="50" /></a>
